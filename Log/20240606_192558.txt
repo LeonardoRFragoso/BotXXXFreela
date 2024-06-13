@@ -1,0 +1,26 @@
+C:\Users\Administrador\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\cloud\firestore_v1\base_collection.py:302: UserWarning: Detected filter using positional arguments. Prefer using the 'filter' keyword argument instead.
+  return query.where(field_path, op_string, value)
+Script iniciado
+ ## X-RED DOWNLOADER 1.0
+ -- DEV_MODE None
+ -- LIMIT_HITS None
+ -- SIMULAÇÂO, NÃO SERA ENVIADO
+ -- Starting... 
+ -- Navegando para xvideos.red 
+Realizando logout...
+ Limpando Cookies www.xvideos.red
+Logout realizado e cookies limpos.
+ -- Verificando disclaimer
+ -- Disclaimer encontrado e clicado.
+ -- Obtendo credenciais 
+ -- Usuário: yagojunior28300@outlook.com
+ -- Senha: df0s9a2@@salmcvSDtt
+ -- Clicando no login 
+ -- Preenchendo credenciais
+ -- Usuário autenticado
+ -- Elemento de código de verificação não encontrado.
+ -- A mensagem de associação expirada não foi encontrada.
+Erro ao executar o script: 'charmap' codec can't encode character '\U0001f7e9' in position 1: character maps to <undefined>
+Encerrando o script...
+Script encerrado após processar 26 solicitações.
+^C

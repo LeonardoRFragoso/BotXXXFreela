@@ -1,0 +1,196 @@
+C:\Users\Administrador\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\cloud\firestore_v1\base_collection.py:302: UserWarning: Detected filter using positional arguments. Prefer using the 'filter' keyword argument instead.
+  return query.where(field_path, op_string, value)
+Script iniciado
+ ## X-RED DOWNLOADER 1.0
+ -- DEV_MODE None
+ -- LIMIT_HITS None
+ -- SIMULAÇÂO, NÃO SERA ENVIADO
+ -- Starting... 
+ -- Navegando para xvideos.red 
+Realizando logout...
+ Limpando Cookies www.xvideos.red
+Logout realizado e cookies limpos.
+ -- Verificando disclaimer
+ -- Disclaimer encontrado e clicado.
+ -- Obtendo credenciais 
+ -- Usuário: yagojunior28300@outlook.com
+ -- Senha: df0s9a2@@salmcvSDtt
+ -- Clicando no login 
+ -- Preenchendo credenciais
+ -- Usuário autenticado
+ -- Elemento de código de verificação não encontrado.
+ -- A mensagem de associação expirada não foi encontrada.
+ 🟩 Trabalhando...
+ -- Navegando para xvideos.red
+http://66.94.119.151:8665/guard.php
+ -- Consultando novos pedidos...
+ -- Não há novos pedidos...
+ -- Navegando para xvideos.red
+http://66.94.119.151:8665/guard-alt.php
+ -- Consultando novos pedidos...
+ -- Não há novos pedidos...
+ -- Navegando para xvideos.red
+http://66.94.119.151:8665/guard-alt3.php
+ -- Consultando novos pedidos...
+ -- Não há novos pedidos...
+ -- Navegando para xvideos.red
+http://66.94.119.151:8665/guard.php
+ -- Consultando novos pedidos...
+ -- Não há novos pedidos...
+ -- Navegando para xvideos.red
+http://66.94.119.151:8665/guard-alt.php
+ -- Consultando novos pedidos...
+ -- Não há novos pedidos...
+ -- Navegando para xvideos.red
+http://66.94.119.151:8665/guard-alt3.php
+ -- Consultando novos pedidos...
+ -- Não há novos pedidos...
+ -- Navegando para xvideos.red
+http://66.94.119.151:8665/guard.php
+ -- Consultando novos pedidos...
+ -- Não há novos pedidos...
+ -- Navegando para xvideos.red
+http://66.94.119.151:8665/guard-alt.php
+ -- Consultando novos pedidos...
+ -- Não há novos pedidos...
+ -- Navegando para xvideos.red
+http://66.94.119.151:8665/guard-alt3.php
+ -- Consultando novos pedidos...
+ -- Não há novos pedidos...
+ -- Navegando para xvideos.red
+http://66.94.119.151:8665/guard.php
+ -- Consultando novos pedidos...
+ -- Não há novos pedidos...
+ -- Navegando para xvideos.red
+http://66.94.119.151:8665/guard-alt.php
+ -- Consultando novos pedidos...
+ -- Não há novos pedidos...
+ -- Navegando para xvideos.red
+http://66.94.119.151:8665/guard-alt3.php
+ -- Consultando novos pedidos...
+ -- Não há novos pedidos...
+ -- Navegando para xvideos.red
+http://66.94.119.151:8665/guard.php
+ -- Consultando novos pedidos...
+ -- Não há novos pedidos...
+ -- Navegando para xvideos.red
+http://66.94.119.151:8665/guard-alt.php
+ -- Consultando novos pedidos...
+ -- Não há novos pedidos...
+ -- Navegando para xvideos.red
+http://66.94.119.151:8665/guard-alt3.php
+ -- Consultando novos pedidos...
+ -- Não há novos pedidos...
+ -- Navegando para xvideos.red
+http://66.94.119.151:8665/guard.php
+ -- Consultando novos pedidos...
+ -- Não há novos pedidos...
+ -- Navegando para xvideos.red
+http://66.94.119.151:8665/guard-alt.php
+ -- Consultando novos pedidos...
+ -- Não há novos pedidos...
+ -- Navegando para xvideos.red
+http://66.94.119.151:8665/guard-alt3.php
+ -- Consultando novos pedidos...
+ -- Não há novos pedidos...
+ -- Navegando para xvideos.red
+http://66.94.119.151:8665/guard.php
+ -- Consultando novos pedidos...
+ -- Não há novos pedidos...
+ -- Navegando para xvideos.red
+http://66.94.119.151:8665/guard-alt.php
+ -- Consultando novos pedidos...
+ -- Não há novos pedidos...
+ -- Navegando para xvideos.red
+http://66.94.119.151:8665/guard-alt3.php
+ -- Consultando novos pedidos...
+ -- Não há novos pedidos...
+ -- Navegando para xvideos.red
+http://66.94.119.151:8665/guard.php
+ -- Consultando novos pedidos...
+ -- Solicitação:  https://www.xvideos.com/video.udpoukf0899/o_negao_me_pegou_de_jeito
+ --
+ -- Objetivo:  https://www.xvideos.red/video.udpoukf0899/o_negao_me_pegou_de_jeito
+ -- Usuário autenticado
+Mensagem não encontrada inicialmente. Não iniciando tentativas.
+ID do vídeo: o_negao_me_pegou_de_jeito
+Valor de html5player.setVideoUrlLow: https://video-cdn77-premium.xvideos-cdn.com/3voZqKPlTi7Isfrj_6R5eA==,1717784832/videos/3gp/b/d/9/xvideos.com_bd999c59d531d019342e021c72d5f1a4.mp4
+ID do vídeo: o_negao_me_pegou_de_jeito
+------------------------ LINK 
+https://www.xvideos.red/video-download/o_negao_me_pegou_de_jeito/
+------------------------ LINK 
+ link2:  https://www.xvideos.red/video-download/o_negao_me_pegou_de_jeito/
+<html><head><meta name="color-scheme" content="light dark"><meta charset="utf-8"></head><body><pre>{"result":false,"code":404,"message":"Not Found"}</pre><div class="json-formatter-container"></div></body></html>
+{'result': False, 'code': 404, 'message': 'Not Found'}
+--------------
+Line: https://www.xvideos.com/video.udpoukf0899/o_negao_me_pegou_de_jeito
+Name: O NEGÃO ME PEGOU DE JEITO
+thumb: https://cdn77-pic.xvideos-cdn.com/videos/thumbs169ll/bd/99/9c/bd999c59d531d019342e021c72d5f1a4/bd999c59d531d019342e021c72d5f1a4.8.jpg
+shortname: video.udpoukf0899
+Video: https://video-cdn77-premium.xvideos-cdn.com/3voZqKPlTi7Isfrj_6R5eA==,1717784832/videos/3gp/b/d/9/xvideos.com_bd999c59d531d019342e021c72d5f1a4.mp4
+--------------
+-------------- CONFIRMACAO V1
+http://66.94.119.151:8665/guard.php?action=update&value=https://www.xvideos.com/video.udpoukf0899/o_negao_me_pegou_de_jeito&nome=O NEGÃO ME PEGOU DE JEITO&thumb=https://cdn77-pic.xvideos-cdn.com/videos/thumbs169ll/bd/99/9c/bd999c59d531d019342e021c72d5f1a4/bd999c59d531d019342e021c72d5f1a4.8.jpg&shortname=video.udpoukf0899&linkhd=https://video-cdn77-premium.xvideos-cdn.com/3voZqKPlTi7Isfrj_6R5eA==,1717784832/videos/3gp/b/d/9/xvideos.com_bd999c59d531d019342e021c72d5f1a4.mp4
+-------------- CONFIRMACAO V1
+Devolvido com sucesso! http://66.94.119.151:8665/guard.php?action=update&value=https://www.xvideos.com/video.udpoukf0899/o_negao_me_pegou_de_jeito&nome=O NEGÃO ME PEGOU DE JEITO&thumb=https://cdn77-pic.xvideos-cdn.com/videos/thumbs169ll/bd/99/9c/bd999c59d531d019342e021c72d5f1a4/bd999c59d531d019342e021c72d5f1a4.8.jpg&shortname=video.udpoukf0899&linkhd=https://video-cdn77-premium.xvideos-cdn.com/3voZqKPlTi7Isfrj_6R5eA==,1717784832/videos/3gp/b/d/9/xvideos.com_bd999c59d531d019342e021c72d5f1a4.mp4
+ [COUNT]  1
+ -- Navegando para xvideos.red
+http://66.94.119.151:8665/guard-alt.php
+ -- Consultando novos pedidos...
+ -- Não há novos pedidos...
+ -- Navegando para xvideos.red
+http://66.94.119.151:8665/guard-alt3.php
+ -- Consultando novos pedidos...
+ -- Não há novos pedidos...
+ -- Navegando para xvideos.red
+http://66.94.119.151:8665/guard.php
+ -- Consultando novos pedidos...
+ -- Solicitação:  https://www.xvideos.com/video.udpoukf0899/o_negao_me_pegou_de_jeito
+ --
+ -- Objetivo:  https://www.xvideos.red/video.udpoukf0899/o_negao_me_pegou_de_jeito
+ -- Usuário autenticado
+Mensagem não encontrada inicialmente. Não iniciando tentativas.
+ID do vídeo: o_negao_me_pegou_de_jeito
+Valor de html5player.setVideoUrlLow: https://video-cdn77-premium.xvideos-cdn.com/vJrwqqGuUDqdp2wS5h7bHQ==,1717784836/videos/3gp/b/d/9/xvideos.com_bd999c59d531d019342e021c72d5f1a4.mp4
+ID do vídeo: o_negao_me_pegou_de_jeito
+------------------------ LINK 
+https://www.xvideos.red/video-download/o_negao_me_pegou_de_jeito/
+------------------------ LINK 
+ link2:  https://www.xvideos.red/video-download/o_negao_me_pegou_de_jeito/
+<html><head><meta name="color-scheme" content="light dark"><meta charset="utf-8"></head><body><pre>{"result":false,"code":404,"message":"Not Found"}</pre><div class="json-formatter-container"></div></body></html>
+{'result': False, 'code': 404, 'message': 'Not Found'}
+--------------
+Line: https://www.xvideos.com/video.udpoukf0899/o_negao_me_pegou_de_jeito
+Name: O NEGÃO ME PEGOU DE JEITO
+thumb: https://cdn77-pic.xvideos-cdn.com/videos/thumbs169ll/bd/99/9c/bd999c59d531d019342e021c72d5f1a4/bd999c59d531d019342e021c72d5f1a4.8.jpg
+shortname: video.udpoukf0899
+Video: https://video-cdn77-premium.xvideos-cdn.com/vJrwqqGuUDqdp2wS5h7bHQ==,1717784836/videos/3gp/b/d/9/xvideos.com_bd999c59d531d019342e021c72d5f1a4.mp4
+--------------
+-------------- CONFIRMACAO V1
+http://66.94.119.151:8665/guard.php?action=update&value=https://www.xvideos.com/video.udpoukf0899/o_negao_me_pegou_de_jeito&nome=O NEGÃO ME PEGOU DE JEITO&thumb=https://cdn77-pic.xvideos-cdn.com/videos/thumbs169ll/bd/99/9c/bd999c59d531d019342e021c72d5f1a4/bd999c59d531d019342e021c72d5f1a4.8.jpg&shortname=video.udpoukf0899&linkhd=https://video-cdn77-premium.xvideos-cdn.com/vJrwqqGuUDqdp2wS5h7bHQ==,1717784836/videos/3gp/b/d/9/xvideos.com_bd999c59d531d019342e021c72d5f1a4.mp4
+-------------- CONFIRMACAO V1
+Devolvido com sucesso! http://66.94.119.151:8665/guard.php?action=update&value=https://www.xvideos.com/video.udpoukf0899/o_negao_me_pegou_de_jeito&nome=O NEGÃO ME PEGOU DE JEITO&thumb=https://cdn77-pic.xvideos-cdn.com/videos/thumbs169ll/bd/99/9c/bd999c59d531d019342e021c72d5f1a4/bd999c59d531d019342e021c72d5f1a4.8.jpg&shortname=video.udpoukf0899&linkhd=https://video-cdn77-premium.xvideos-cdn.com/vJrwqqGuUDqdp2wS5h7bHQ==,1717784836/videos/3gp/b/d/9/xvideos.com_bd999c59d531d019342e021c72d5f1a4.mp4
+ [COUNT]  2
+ -- Navegando para xvideos.red
+http://66.94.119.151:8665/guard-alt.php
+ -- Consultando novos pedidos...
+ -- Não há novos pedidos...
+ -- Navegando para xvideos.red
+http://66.94.119.151:8665/guard-alt3.php
+ -- Consultando novos pedidos...
+ -- Não há novos pedidos...
+ -- Navegando para xvideos.red
+http://66.94.119.151:8665/guard.php
+ -- Consultando novos pedidos...
+ -- Não há novos pedidos...
+ -- Navegando para xvideos.red
+http://66.94.119.151:8665/guard-alt.php
+ -- Consultando novos pedidos...
+ -- Não há novos pedidos...
+Traceback (most recent call last):
+  File "C:\Users\Administrador\Desktop\Bot-Python\Bot.py", line 475, in <module>
+    process_requests(browser)
+  File "C:\Users\Administrador\Desktop\Bot-Python\Bot.py", line 184, in process_requests
+    time.sleep(0.5)
+KeyboardInterrupt
+^C

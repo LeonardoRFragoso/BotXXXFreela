@@ -1,0 +1,27 @@
+C:\Users\Administrador\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\cloud\firestore_v1\base_collection.py:302: UserWarning: Detected filter using positional arguments. Prefer using the 'filter' keyword argument instead.
+  return query.where(field_path, op_string, value)
+Script iniciado
+ ## X-RED DOWNLOADER 1.0
+ -- DEV_MODE None
+ -- LIMIT_HITS None
+ -- SIMULAÇÂO, NÃO SERA ENVIADO
+ -- Starting... 
+ -- Navegando para xvideos.red 
+Realizando logout...
+ Limpando Cookies www.xvideos.red
+Logout realizado e cookies limpos.
+ -- Verificando disclaimer
+ -- Disclaimer encontrado e clicado.
+ -- Obtendo credenciais 
+ -- Usuário: brunocarvalho2303@hotmail.com
+ -- Senha: bRunOo@30dsaFDS23
+ -- Clicando no login 
+ -- Preenchendo credenciais
+ -- Usuário autenticado
+Traceback (most recent call last):
+  File "C:\Users\Administrador\Desktop\Bot-Python\bot.py", line 471, in <module>
+    process_requests(browser)
+  File "C:\Users\Administrador\Desktop\Bot-Python\bot.py", line 140, in process_requests
+    time.sleep(1.5)
+KeyboardInterrupt
+^C

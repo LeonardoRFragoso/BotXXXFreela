@@ -1,0 +1,34 @@
+Script iniciado
+ ## X-RED DOWNLOADER 1.0
+ -- DEV_MODE None
+ -- LIMIT_HITS None
+ -- SIMULAÇÂO, NÃO SERA ENVIADO
+ -- Starting... 
+ -- Navegando para xvideos.red 
+Realizando logout...
+Erro ao executar o script: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=125.0.6422.142)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6CB0E1F52+60322]
+	(No symbol) [0x00007FF6CB05CEC9]
+	(No symbol) [0x00007FF6CAF17EBA]
+	(No symbol) [0x00007FF6CAEED5A5]
+	(No symbol) [0x00007FF6CAF936B7]
+	(No symbol) [0x00007FF6CAFAB331]
+	(No symbol) [0x00007FF6CAF8BFC3]
+	(No symbol) [0x00007FF6CAF59617]
+	(No symbol) [0x00007FF6CAF5A211]
+	GetHandleVerifier [0x00007FF6CB3F94AD+3301629]
+	GetHandleVerifier [0x00007FF6CB4436D3+3605283]
+	GetHandleVerifier [0x00007FF6CB439450+3563680]
+	GetHandleVerifier [0x00007FF6CB194326+790390]
+	(No symbol) [0x00007FF6CB06750F]
+	(No symbol) [0x00007FF6CB063404]
+	(No symbol) [0x00007FF6CB063592]
+	(No symbol) [0x00007FF6CB052F9F]
+	BaseThreadInitThunk [0x00007FFD3BEB257D+29]
+	RtlUserThreadStart [0x00007FFD3C80AA48+40]
+
+Encerrando o script...
+Script encerrado após processar 26 solicitações.

@@ -1,0 +1,1 @@
+python: can't open file 'C:\\Users\\Administrador\\Desktop\\Bot-Python\\Botxxx_Python.py': [Errno 2] No such file or directory
